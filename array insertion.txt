@@ -1,0 +1,11 @@
+array insertion :
+
+1.start.
+2.enter the size of array.
+3.enter the elements of array.
+4.enter the position of new element to be inserted.
+5.enter the new element to be inserted.
+6.for(i=size;i>=pos;i--) then a[i]=a[i-1].
+7.a[pos]=newvalue and size=size+1;
+8.print all the elements in order
+9.stop.
