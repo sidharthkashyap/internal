@@ -1,0 +1,106 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#nav-bar{
+	position: sticky;
+	top: 0;
+	z-index: 10;
+}
+
+ .navbar-nav li
+ {
+ 	padding: 0 10px;
+ }
+
+ .navbar-nav li a
+ {
+ 	float: right;
+ 	text-align: left;
+ }
+
+ #nav-bar ul li a:hover{
+ 	color: #007bff;
+ }
+
+ .navbar{
+ 	background: #fff;
+
+ }
+
+ .navbar-toggler{
+ 	border: none;
+ }
+
+ .nav-link{
+ 	color:#555;
+ 	font-weight: 900;
+ 	font-size: 20px; 
+ }
+
+ #slider{
+ 	width: 100%;
+ }
+
+ .corousel-caption{
+ 	font-family: sans-serif;
+ 	top: 50%
+ 	bottom:initial;
+ 	transform: translateY(-50%);
+ }
+
+ .corousel-caption h5{
+ 	color: #FFA500;
+ 	font-size: 50px;
+ }
+
+ #about{
+ 	padding-top: 50px;
+ 	padding-bottom: 50px;
+ 	color: #555;
+
+ }
+ .about-content
+ {
+ 	padding-top: 20px; 
+ }
+
+ .skills-bar p {
+ 	margin-bottom: 6px;
+ 	font-weight: 600;
+
+
+ }
+
+ .progress-bar{
+ 	border-radius: 10px;
+
+ }
+
+ .progress{
+ 	border-radius: 10px;
+
+ }
+
+#contact{
+	background-color: #efefef;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	color: #777
+}
+
+.contact-form{
+	padding:15px;
+}
+
+.follow{
+	background: #fff;
+	padding:5px;
+	margin: 5px;
+}
+.contact-info .fa{
+	margin: 10px;
+	color: #007bff;
+	font-weight: bold;
+}
